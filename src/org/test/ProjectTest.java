@@ -14,11 +14,26 @@ public class ProjectTest {
 		// TODO Auto-generated method stub
 
 	}
+	private void method4() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method5() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method6() {
+		// TODO Auto-generated method stub
+
+	}
 	public static void main(String[] args) {
 		ProjectTest test=new ProjectTest();
 		test.method1();
 		test.method2();
 		test.method3();
+		test.method4();
+		test.method5();
+		test.method6();
 	}
 
 }
