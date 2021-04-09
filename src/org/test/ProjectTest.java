@@ -26,6 +26,19 @@ public class ProjectTest {
 		// TODO Auto-generated method stub
 
 	}
+	private void method10() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method11() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method12() {
+		// TODO Auto-generated method stub
+
+	}
+    
 	public static void main(String[] args) {
 		ProjectTest test=new ProjectTest();
 		test.method1();
@@ -34,6 +47,9 @@ public class ProjectTest {
 		test.method4();
 		test.method5();
 		test.method6();
+		test.method10();
+		test.method11();
+		test.method12();
 	}
 
 }
